@@ -10,12 +10,12 @@ This ThreeJS Typescript example shows several geometries animated with varied sc
 
 ### OceanPage 
 
-This is a javascript THREEJS examples converted to a typescript project. 
+This is a three.js - webgl - Ocean example converted to a typescript project. 
 
 <img width="954" alt="image" src="https://github.com/JavascriptDon/ThreeJS-Typescript-Demo/assets/101202952/4f622b66-dec1-42b6-94b9-d2954ee79570">
 
 
-This is a three.js - webgl - Ocean example converted to a typescript project. The 3d models are from [Sketchfab]( https://sketchfab.com/3d-models/gumshoe-male-db3920b942594294a3b4643a0ee1ec0e) and Threejs.org. 
+The 3d models are from [Sketchfab]( https://sketchfab.com/3d-models/gumshoe-male-db3920b942594294a3b4643a0ee1ec0e) and Threejs.org. 
 
 ## 👇 Prerequisites
 
