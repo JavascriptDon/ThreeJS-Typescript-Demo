@@ -1,5 +1,17 @@
 ## ThreeJS Typescript Project
 
+### CubePage
+
+This ThreeJS Typescript example shows several geometries animated with varied scaling, rotation, and position options.  
+
+
+<img width="946" alt="image" src="https://github.com/JavascriptDon/ThreeJS-Typescript-Demo/assets/101202952/dbdb3183-1fe7-469f-8ade-afd97b8b9b9d">
+
+
+### OceanPage 
+
+This is a javascript THREEJS examples converted to a typescript project. 
+
 <img width="954" alt="image" src="https://github.com/JavascriptDon/ThreeJS-Typescript-Demo/assets/101202952/4f622b66-dec1-42b6-94b9-d2954ee79570">
 
 
